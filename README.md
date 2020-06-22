@@ -1,2 +1,2 @@
-# go-it-homework
+# goit-markup-hw-01
 Домашние задания с курса
