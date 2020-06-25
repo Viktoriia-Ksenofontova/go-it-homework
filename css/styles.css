@@ -1,5 +1,9 @@
 .navig-list,
-.client-list {
+.preference-list,
+.services-list,
+.team-list,
+.client-list,
+.social-list {
   list-style: none;
 }
 
